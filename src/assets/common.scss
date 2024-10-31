@@ -1,0 +1,13 @@
+@mixin responsive-max-width {
+  
+    @media(max-width: 1200px) {
+      max-width: 90vw;
+    }
+  
+    @media(max-width: 600px) {
+      max-width: 95vw;
+    }
+}
+@mixin rraa{
+    background-color: #f2f2f2;
+}
