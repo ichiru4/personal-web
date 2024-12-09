@@ -1,6 +1,6 @@
 # project1
 
-This template should help get you started developing with Vue 3 in Vite.
+这是一个个人网站的前端，目前只写了首页的布局，HTML，CSS，VUE，未完成
 
 ## Recommended IDE Setup
 
